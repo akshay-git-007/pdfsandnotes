@@ -20,6 +20,7 @@ h1 {
   text-align: center;
   font-weight: 900;
   font-size: 150px;
+  text-shadow: 2px 2px 4px #fff;
 }
 
 span {
