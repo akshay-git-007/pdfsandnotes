@@ -100,6 +100,14 @@ footer {
   color: #151617;
 }
 
+.fa-brands:hover {
+  color: #fff;
+}
+
+.fa-solid:hover {
+  color: #fff;
+}
+
 .footer-icons:hover {
   color: #fff;
 }
