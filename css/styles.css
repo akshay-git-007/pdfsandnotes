@@ -86,6 +86,11 @@ footer {
 .footer-icons {
   padding: 20px;
 }
+
+.footer-icons:hover {
+  color: #fff;
+}
+
 @media (max-width: 950px) {
   ul {
     text-align: left;
